@@ -5,7 +5,7 @@ Expedia Coding Problem
 
 The prerequisites to run this application are:
 
-1. Maven Compiler
+1. Maven Build Tool
 2. Apache Tomcat 7.x
 
 To run the application follow the following steps

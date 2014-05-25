@@ -7,6 +7,7 @@ The prerequisites to run this application are:
 
 1. Maven Build Tool
 2. Apache Tomcat 7.x
+3. Proxy Free Internet Connection
 
 To run the application follow the following steps
 

@@ -14,8 +14,9 @@ To run the application follow the following steps
 2. Modify pom.xml for server configuration url (port number might be different)
 3. Start Tomcat using startup.bat
 4. mvn compile
-5. mvn package
-6. mvn tomcat7:deploy -s settings.xml
+5. mvn test
+6. mvn package
+7. mvn tomcat7:deploy -s settings.xml
 
 The web application is accessible at localhost:8080/weather
 
